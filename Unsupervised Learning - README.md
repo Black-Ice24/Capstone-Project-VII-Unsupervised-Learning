@@ -40,6 +40,11 @@ Project can be run by running all cells in Jupyter notebook. Ensure that all app
 
 <img width="621" alt="K_means_cluster plot" src="https://user-images.githubusercontent.com/73187289/209803530-51ebed4a-aa08-4108-a494-cc03a10abcde.png">
 
+### 4. Credits
+
+Author: Dr Baribefe O Vite
+
+With help from HyperionDev and some code within adapted from [OstwalPrasad](https://ostwalprasad.github.io/machine-learning/PCA-using-python.html)
 
 
 
